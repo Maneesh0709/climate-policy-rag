@@ -1,0 +1,549 @@
+Defusing the Ticking Bomb: Legislation that 
+Confronts Climate Change through Clean Energy 
+ 
+Alicia Spooner1 and Janine Sharbaugh# 
+ 
+1River Hill High School  
+#Advisor  
+ 
+ABSTRACT 
+ 
+This paper analyzes various policies in efforts to determine a feasible and effective next step in advancing energy 
+policy and climate action in the United States. Research consists of a review of literature followed by meta-analysis. 
+The secondary research portion calls for an acceleration of the renewable energy transition, emphasizing the im-
+portance of energy reforms. The review acknowledges obstacles hindering the transition such as renewable energy 
+variability and storage limitations. The section calls for technological advancement and identifies four policy targets; 
+investment, accessibility, pricing, and expansion. The review of literature is followed by meta-analysis of aforemen-
+tioned policy targets by analyzing and comparing five sources, each pertaining to a different policy area. Primary 
+research identifies renewable energy investment using revenue sourced from carbon pricing and fossil fuel subsidy 
+dissolution as the most efficient and feasible next step in strengthening U.S. energy policy, concluding with a call to 
+action in light of findings.  
+ 
+Introduction 
+ 
+Guinness World Records annually publishes record-breaking achievements of humans each year. Yet to be featured 
+in the Guinness publications is one record humans consistently manage to break: the annual amount of greenhouse 
+gasses emitted into the atmosphere. Despite reaching a high of 37.1 million tonnes of annual CO2 emissions in 2021, 
+global emissions surged to 37.5 MtCO2 in 2022 (Global Carbon Budget, 2022).  In recognizing GHG emissions as a 
+central catalyst of global warming, many nations are in the midst of combating climate change through the Paris 
+Agreement. Various initiatives of the treaty establish the foundation and timeline on which institutions must achieve 
+net zero emissions by 2050 to limit global temperature increase to 1.5℃ above pre-industrial conditions (UNFCCC, 
+2015). Limiting global temperatures requires the establishment of zero net emissions, a state in which the amount of 
+emissions absorbed offsets emissions released. In its pursuit, U.S. policy that allocates government funding towards 
+renewable energy (RE) efficiency,  greater accessibility, and imposes clean energy integration in grids of developing 
+countries is the most effective legislative route in delivering zero net emissions, both nationally and globally, by 2050. 
+In demonstrating the urgency of energy production and use reform in climate change reversal, this paper will identify 
+the RE technological limitations that must be addressed to accelerate the RE transition (RET), propose and explain 
+zero net favorable policy, and argue on behalf of the legislative responsibilities the U.S. government has in more 
+swiftly implementing a national RET and integrating clean, modernized systems in the developing energy grids of 
+growing economies.  
+ 
+ 
+ 
+ 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+1
+Review of Literature 
+ 
+Second to China, the U.S. is one of the largest producers of carbon emissions (United States Environmental Protection 
+Agency, 2022). In efforts to reduce emissions, initial reform must target the most emission-intensive sectors. An effi-
+cient approach is through reform of the energy sector which is the second-highest greenhouse gas emitting sector in 
+the U.S. and the highest emitting sector in the world, accounting for approximately one-fourth of global emissions 
+(United States Environmental Protection Agency, 2022). The existing American energy grid is undeniably carbon-
+intensive. With the energy sector playing a prominent role as an emitter, energy production and use reform is the most 
+efficient and sustainable measure to be taken in pursuit of climate change reversal.  
+Shifting the grid away from fossil fuels and towards renewable sources is a sustainable route to revolutionize 
+energy production and reduce emissions. U.S. electricity generation sourced from nonrenewables such as coal and 
+gas, emitted over 1.6 billion metric tons of carbon dioxide in 2021. In contrast, renewables are not fossil fuel nor 
+emission-intensive, making them key instruments in the pursuit of carbon neutrality (EIA, 2021). Additionally, RE, 
+characterized by boundless sourcing, will sustain the population long term. As energy demands have, and continue to 
+surge, RE is a more advantageous energy source that will supply such demands (Kuo, 2019). To illustrate, fossil fuels 
+are rapidly depleting, the MAHB reporting that all fossil fuel reserves will deplete by 2090 (Kuo, 2019). Due to finite 
+availability, fossil fuel energy is not equipped to supply the population moving forward.   
+With boundless availability, RE will meet energy demand at greater lengths than fossil fuels while simulta-
+neously mitigating harmful environmental effects, furthering the RET. RE capacity has risen 41% since 2007 (Frankf. 
+Sch. Finance Manag., 2018). To illustrate, wind energy alone possesses great production potential that is not currently 
+discarded in the energy grid. Southwest Power Pool data of January 2023 indicates that wind energy has the potential 
+to produce more energy than consumed (SPP, 2023). Prominent forms of RE, such as wind and photovoltaic, exist 
+under the umbrella of solar energy although differ in source as photovoltaic is harnessed directly from the sun’s rays 
+and wind as an indirect product of the sun (Blakers et al., 2017).  Such forms of solar-sourced RE will deliver sub-
+stantial emission reductions. According to IRENA, “RE [and electrification] …can deliver 75% of …emissions re-
+ductions needed [to meet climate goals]” (2022). Not only is RE capable of supplying the growing population of 
+energy, but its use facilitates the pursuit of zero net emissions in the process.   
+        Production variability of RE is a significant hurdle slowing the RET. Due to varying periods of generation and 
+capacities, current RE systems are not consistently equipped to meet energy demands (EnergySage, 2021). Today’s 
+clean energy is economically adverse, unreliable, and inconvenient as it provides energy in limited increments of time 
+(Sarbu et al., 2018). Clean energy systems, specifically solar, draw energy in the form of wind or directly from the 
+sun's rays. In the process, energy potential is undermined as RE production tends to peak during periods of low con-
+sumption and much of the energy is not consumed. For example, “less than 10%” of hydro energy generated in Russia 
+makes it to the grid (Xiangchengzhen, 2020). Furthermore, capacity is oftentimes underestimated due to the techno-
+logical limitations in storing and distributing that diminish its applicability (Xiangchengzhen, 2020). The resulting 
+under-exploitation of RE prevents strides in the RET and prompts the need for advanced storage and transmission 
+systems. Such technological limitations must be further addressed to accelerate the RET.  
+  
+Storage and hybrid RE systems are often offered as methods to achieve an efficient RE grid. For example, 
+hydro-pumped production and thermal storage are both routes to be considered when combined to create a hybrid 
+system. By offsetting storage limitations with renewable storage technology, such combinations would serve as a 
+sustainable method to store hydro-generated energy (Gerdes, 2018). RE hybrid systems, in which generation and 
+storage are paired, will overcome transmission limitations as sufficient storage is dispatchable for later use in periods 
+of low production (SPP, 2023). For example, Quidnet Energy has created a geomechanical pumped storage system 
+that enables the dispatchability of RE. By storing potential energy of water pumped into repurposed wells using RE, 
+the system is equipped to store and dispatch RE over long periods between generation and consumption (Quidnet 
+Energy, 2023). The widespread availability of stored RE through systems such as that developed by Quidnet would 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+2
+diminish under exploitation and thus expand use. Furthermore, significant emission reductions will sprout from in-
+ventions and innovations “not on the market yet” (IEA, 2021). As a result, greater investment in RE technology that 
+targets primary obstacles such as storage capacities is effective. Investment will accelerate the RET by facilitating 
+energy dispatchability and creating flexibility in utilizing various forms of RE.  
+Increasing access to RE will permit swift implementation of a RET. Using policy to incentivize RE technol-
+ogy developers, businesses, and RET development in emerging economies will drive down the cost and expand ac-
+cessibility. For example, the aforementioned geomechanical pumped storage development may increase the availabil-
+ity of RE thanks to advanced storage capacities (Quidnet Energy). Through improved storage and the resulting RE 
+dispatchability, factors that often “[diminish] cost competitiveness…such as transmission” would be overcome, bring-
+ing the financial advantages of RE to light (EERE, 2022). With this in mind, government investment must be directed 
+toward the advancement of technology in areas such as RE storage and transmission. Such advancements will cut the 
+cost of RE and accelerate the RET.  
+Technological development to make RE more readily available and dispatchable will incentivize carbon-
+intensive businesses to shift energy utilization to RE. Policy, specifically carbon pricing, must push institutions toward 
+energy transitions. Pricing can be implemented either in the form of carbon taxation or emission trading systems. “By 
+capturing the external costs of  [emissions]”  and reallocating the expense into the hands of consumers, carbon pricing 
+is used as a way to offset the external expenses of its consumption such as those resulting from environmental changes 
+and climate disasters (UNFCCC, 2021). Carbon pricing is an effective method that can be incorporated into policy to 
+reduce the usage of carbon-intensive energy, as exhibited in the UK, where carbon pricing resulted in “emissions in 
+the electricity sector.. [to fall] by 58%” in 4 years (Flues, 2020).  In the United States, its implementation would result 
+in significant emission cuts as well as long-term economic growth. A $75 carbon tax would not only be predicted to 
+produce over 25% emission reductions compared to the “2030 baseline”, but could also result in a GDP surge of nearly 
+1% as concluded by referenced data (Parry et al., 2022).  The economic growth potential demonstrated by carbon tax 
+must be harnessed to incentivize government institutions to pass favorable legislation as its implementation isn’t fea-
+sible in the U.S. Economies can turn to emission trading systems as the carbon pricing element of policy in instances 
+where carbon taxation is unattainable due to its flexible nature. Trading systems, proven to deliver carbon reductions, 
+limit market carbon consumption to a specific carbon allowance. It offers greater flexibility amongst consumers as it 
+allows for unfulfilled allowance to be exchanged amongst businesses, encouraging entities against using carbon out-
+side the boundaries of their allowance and offering the possibility of profiting off of unmet allowance (Parry, et al., 
+2022). Such flexibility may increase the feasibility of emissions trading when compared to carbon taxation. In econ-
+omies where a carbon tax was beyond reach, such as California,  carbon pricing has still been implemented in the form 
+of trading schemes as its adoption requires fewer votes “compared to two-thirds for [a carbon tax]” (Parry et al., 2022).  
+Introducing policies that stimulate carbon reductions is a crucial step toward decarbonizing the economy. Stronger 
+implementation is called for in the RET and in pursuit of reductions necessary to achieve carbon neutrality and climate 
+goals.  
+ In addition to the RET-directed policy being applied on a national level, the RET must not be discarded in 
+developing countries. The global integration of RE grid systems facilitates the RET process for countries with fewer 
+resources. Countries in the absence of an energy grid are met with the opportunity to jumpstart with RE infrastructure 
+or opt for that of fossil fuels, which, as mentioned, is disadvantageous long term (Kuo, 2019). Developing countries 
+are confronted with the challenge of creating sustainable sectors that will supply an energy demand guaranteed of 
+considerable escalation, serve the current needs of a smaller and more geographically dispersed population, and per-
+form with low emission production. This process, dubbed “energy leapfrogging”, directs the establishment of a mod-
+ern renewable grid that will serve the aforementioned needs. (Arndt et al., 2019). Energy production missteps may be 
+mitigated if developing countries are advised to start with RE. Furthermore, carbon neutrality efforts in developed 
+economies are inefficient if such efforts are not extended to developing countries, unable to pursue their own carbon 
+neutrality goals.  To illustrate, many developed nations aim to “get to zero [net emissions] before 2050” (Tongia, 
+2021). However, they have begun to recognize the inefficiency of their carbon neutrality without similar efforts being 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+3
+made in rapidly expanding regions. For example, the 26th United Nations Climate Change Conference of the Parties 
+pledged funding to developing countries for carbon neutrality to be delivered and prevent the potential regressions of 
+developing grids to offset overall progress (Chen, 2022). It is evident that stronger policy initiating RE development, 
+both nationally and in developing countries, is required to facilitate a global RET and confront climate change. 
+In pursuit of international RET, the obstacles that developing grids face, in particular, such as a lack of in-
+vestment for RE projects and political instability, must be addressed. As demonstrated by the Integrated Resource 
+Plan implemented in South Africa, policies that provide such developing grids with the resources necessary in the 
+form of project funding, will deliver substantial progression towards RET. For example, the IRP’s implementation 
+has expanded South African RE to “account for 21%” of energy consumed within the few years following policy 
+adoption (Arndt et al., 2019). The aforementioned carbon policy can be deployed as a method of increasing RE ac-
+cessibility and consumption in developing economies. Furthermore, such policies, that utilizes the growing cost com-
+petitiveness of RE and recognize its effectiveness “[within] grid extension in rural and dispersed communities”, will 
+prove most efficient in delivering RET (Pérez-Arriaga, 2018). As concluded by the presented data, carbon tax in “low-
+income emerging market economies” would result in the highest percentage of emission reduction compared to the 
+reductions expected in other countries. Additionally, carbon pricing is predicted to increase GDP by more than 2% in 
+all investigated economies (Parry, et al., 2022). It is evident that RE-favoring policies, such as government-backed 
+energy projects and technology funding, as well as emission-preventative policies, such as carbon tax, are both essen-
+tial and effective in aiding developing countries and energy grids. Resourceful governments must allocate investments 
+toward RE-favoring projects and policies in such economies to ensure national emission reduction headways and 
+global progress toward the RET.  
+In order to deliver sustained emission reductions, legislation must direct investment toward RE taking ac-
+count of the long-term effects. However, the nature in which much of today’s RE policy is created serves short-term 
+goals. For example, short-term oriented policies made to deliver transitions toward RE or mitigate emissions are often 
+curated in the most financially friendly and timely manner. As a result, the outcomes are unsustainable and fail to 
+meet long-term needs in the realm of the RET and climate goals. Current policies are bound to fall short due to such 
+legislative tactics (Hall et al., 2015). Furthermore, dynamic costs must be prioritized over short-term costs. An exam-
+ple of such include expensive incentives to advance today’s RE technologies as they are “desirable to attain dynami-
+cally efficient outcomes.” (Gillingham et al., 2018) Additionally, the more costly the investment, the greater efficiency 
+it will demonstrate in delivering emission reduction.  Unfortunately, due to their unattractive traits such as high costs 
+and long-term results, institutions are less incentivized to allocate funding toward more effective policies (Gillingham 
+et al., 2018). This limitation must be addressed as the call for carbon reduction becomes more critical with the growing 
+climate crisis. In order to encourage the feasibility of long-term and dynamic investment, the advantages of RE, such 
+as growing cost competitiveness, capacity, and climate benefits, must be employed. For example, solar photovoltaic 
+costs have been consistently overestimated in the last 8 years (Arndt et al., 2019). Additionally, the cost competitive-
+ness of RE is improving, as demonstrated in a seven-year span in which the cost of photovoltaic energy “decreased 
+by 81%” while increases were observed amongst non-renewables (Ardnt et al., 2019). When legislators are equipped 
+with compelling evidence that demonstrates the increasing benefits of RE, the RET will advance as long-term and 
+dynamic investment will become more feasible. 
+ Incentivizing the use of RE for both producers and consumers will prove as an effective method in grid 
+decarbonization. In order to do this, policy must encourage RE by improving use accessibility, rather than limiting 
+fossil fuel access. Such policy is a feasible approach, being more easily implemented nationally and globally (Cohen, 
+2015).  The importance of RE investment was demonstrated through variable RE integration in the developing sector 
+of South Africa. The future of global RET and its climate advantages will garner greater success and efficiency if 
+government institutions are incentivized to invest in sustainable grid development in today’s underdeveloped regions 
+(Arndt et al., 2019). While carbon taxation policy has proved efficient in implementing economies, obstacles present 
+themselves in implementing such legislation in corrupt or politically polar governments. For example, it would be 
+difficult to implement a strong carbon tax in the United States due to the nation’s polarized state (Qadir, 2021). Instead, 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+4
+investments in technology development and deployment are the route to be taken in increasing the possibility of a 
+RET under such institutions. The use of investment may drive the RET without strongly depending on carbon pricing 
+policies to achieve emission reductions. 
+The U.S. is largely accountable for climate change and thus, climate restoration. In order to mitigate climate 
+change and its harmful environmental and public health effects, its primary causes must be swiftly targeted with 
+legislation. An effective approach to preventing the causes, namely greenhouse gas emissions, is through energy re-
+form. Given the lead role the energy sector plays as an emitter, the sector must transition to RE while maintaining 
+production and transmission efficiency as well as widespread accessibility. The obstacles currently restricting the 
+RET, such as production, storage, and accessibility limitations, must be addressed with legislation that promotes the 
+technological advancement and consumption of RE. By encouraging research and development with investment, in-
+corporating emissions reduction incentives into the economy, and using similar tactics to stimulate RE development 
+in the grids of underdeveloped countries, stronger policy will ensure a transition that is effective and sustainable.  
+ 
+Methods 
+        
+The primary research portion of this paper targets two areas of emissions reduction efforts demonstrated in the energy 
+sector: carbon pricing and RE development. To determine which is the most efficient and feasible next step in strength-
+ening U.S. energy policy, policy areas were further refined into three areas of focus. These include carbon taxation, 
+carbon emissions trading schemes, and subsidizing clean energy technology. As mentioned, meta-analysis was further 
+directed by the objective of determining the most feasible and effective next step to facilitate the RET in the U.S. 
+Referenced data was gathered from four sources consisting of case studies, reviews, and reports. Each source, pertain-
+ing to one of the three policy areas, outlined the findings of policy implementation or prospects of theoretical imple-
+mentation and addressed successes, failures, and limitations to be considered in future legislation. To determine opti-
+mal policy, sources were analyzed and compared according to the objective. Defining characteristics of policy feasi-
+bility and effectiveness include benefits and shortcomings exhibited by previous implementation elsewhere, required 
+government funds/resources, economic effects, socio-economic impacts, etc. Defining characteristics of the optimal 
+policy include low economic burden, positive socio-economic impacts, stimulation of market growth, substantial long-
+term benefits, large societal adaptability, etc. Aforementioned factors drove the analysis of policy feasibility and ef-
+fectiveness, allowing an optimal policy route to be identified.  
+ 
+Results  
+ 
+Prior sections of this paper call for RE technology investment and advancement, widespread accessibility, disincen-
+tives of fossil fuel use, and the expansion of RE development. It is hypothesized that such policy areas are the most 
+optimal and feasible paths given theoretical characteristics; market flexibility and low economic burden of implemen-
+tation. However, the review of literature does not consider nor compare and contrast the real-world advantages and 
+disadvantages between policies. Utilizing five sources, the following sections will consider previous and current im-
+plementation, the recommendations of experts, and original findings of other researchers, the following sections will 
+distinguish policies by feasibility and effectiveness in efforts to identify the most optimal legislative route. 
+        The first source, A Report on the European Union Emissions Trading System (EU-ETS), discusses Emissions 
+Trading Schemes (ETS), a policy presented in prior sections. ETS is a form of carbon pricing that limits participants 
+to a carbon cap, the maximum amount of carbon consumed during a specific period.  Unlike carbon taxation, in which 
+participants are subject to varying pricing determined by their individual consumption, ETS addresses participants as 
+a whole, allowing flexibility to disperse consumption amongst themselves depending on individual needs while lim-
+iting total consumption according to the cap (Parry, et al., 2022). ETS does not give its participants complete freedom 
+to distribute carbon amongst themselves. A portion of the cap is allocated individually, in the form of “carbon credits” 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+5
+according to prior operative requirements while the remaining cap is auctioned off.  By allowing participants to bid 
+for, buy, and sell carbon credits, ETS allows for greater market flexibility without subjecting consumers to a definitive 
+budget and makes room for compromise within carbon-intensive industries (Jones, 2013).  
+The EU-ETS, put into effect in 2005 and composed of four phases, is purposed to ease businesses into carbon 
+mitigation and, gradually, incorporate carbon credit trading into the market and encourage carbon credit acquisition 
+(Jones, 2013).  The EU-ETS regulates carbon intake by establishing an emissions cap, limiting the amount of carbon 
+that can be consumed by participating entities, and allocating carbon budgets to be adhered to in a fixed period. Par-
+ticipants are permitted to trade or acquire budgeting from other entities or investments. The system intends to provide 
+businesses with greater freedom regarding their fossil fuel consumption while limiting consumption according to the 
+cap (Jones, 2013). When the EU-ETS was first introduced,  aforementioned carbon pricing practices, such as trading, 
+were not yet allowed, giving participants time to adjust. Therefore, Phase I (2005-2007), enforced a cap equivalent to 
+the prior year’s emissions. Individual budgets were determined through the “grandfathering” method, in which the 
+fossil fuel consumption trends of years previous were modeled after (Jones, 2013). By implementing “grandfather” 
+budgets, the purpose of Phase I was to limit carbon emissions from surpassing the year’s previous. It is also speculated 
+that the grandfather budgets were excessive, as they were determined using participants’ carbon reports which may 
+have been exaggerated in effort to attain more credits (Jones, 2013). While Phase II (2008-2012) did not yet allow 
+credit auctioning and selling, it introduced credit acquisition. Participants were permitted to acquire additional carbon 
+credits through Clean Development Mechanisms (CDM) and Joint Implementation (JI) (Jones, 2013). Participants of 
+CDM fund carbon reduction in developing countries while claiming the mitigated emissions as additional credits to 
+their entity's budget. JI refers to multinational partnerships between economies with low and high domestic emission 
+reduction costs. Reduction initiatives are funded in low-cost economies while the mitigated emissions are claimed as 
+additional credits in the investing party’s carbon budget (Jones, 2013). Although these mechanisms primarily serve as 
+a way of budget expansion, they promote RE development in emerging countries (Jones, 2013). Thus, ETS can be 
+viewed as a stimulant of RE technological development and RE leaping frogging. In the case of EU-ETS, however, 
+the system lacked a method of measuring and verifying carbon credits attained through CDM and JI (Jones, 2013). 
+The consequences of this insufficiency will be discussed in a later section. Due to the ineffective implementation in 
+the EU, it is difficult to quantify the carbon mitigation potential of ETS through analysis of its first two phases. Later 
+sections call for legislative reforms that may make ETS more effective and feasible in future implementation.  
+Furthermore, the first two phases of EU-ETS resulted in carbon budget overload. Along with a lack of credit 
+measurement and verification practices, the system also lacked credit regulation (Jones, 2013). The author identifies 
+oversupply as the root issue of the policy, as it resulted in low carbon pricing and little incentive for participants to 
+further their emissions-reducing practices.  
+The second source, Looking Back on 30 Years of Carbon Taxes in Sweden, discusses the implications of the 
+Swedish tax and its emissions reduction potential. The report discusses the implementation of EU-ETS on Swedish 
+business as well, explaining how the two forms of carbon pricing coincide and the resulting effects. 
+Sweden has a carbon tax of  “(US $126)”/tCO2e (Jonsson et al., 2020). Implemented in 1991, it was introduced as an 
+energy tax, which the economy was familiar with. The tax primarily served to raise revenue, a function that the authors 
+identify as a source of RE funds. Over the years, the tax has quadrupled, and the country's GDP has risen (50%), all 
+while carbon emissions have reduced (27%) (Jonsson et al., 2020). Prior to its implementation, the Swedish economy 
+was already subject to energy taxes. In its implementation, the country underwent a “green tax-switch”, in which 
+“environmental tax [increased] while other taxes [decreased]”  (Jonsson et al., 2020) Such compromising tax altera-
+tions facilitated the adoption of the carbon tax. Additionally, Sweden enacted tax exemptions in order to aid market 
+adoption. For example, the tax cap exempted businesses that emitted enough carbon to exceed it, from paying addi-
+tional taxes. Businesses subject to the EU-ETS were also exempted from the tax (Jonsson et al., 2020). The authors 
+call attention to how aforementioned exemptions generally applied to only the most carbon-intensive industries.  
+Sources 3 and 4, Implications of Switching Fossil Fuel Subsidies to Solar: A Case Study for the European 
+Union and Why German households won’t cover their roofs in photovoltaic panels: And whether policy interventions, 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+6
+rebound effects and heat pumps might change their minds, were referenced to analyze the significance of subsidy 
+intervention regarding fossil fuels and RE.  
+The “$233 billion” invested in fossil fuel subsidies create market distortions that promote their use (Sampedro 
+et al., 2018). The authors identify the distortions as economic burdens and disincentives for RE use and development. 
+They call for subsidy reform, characterizing the policy as regressive by disproportionately benefiting the rich, and 
+argue it be gradually suspended to prevent misappropriation of funds that should be invested in climate-change pre-
+vention (Sampedro et al.,). The study refers to the “gradual suspension” of fossil fuels subsidies as “phasing-out”, 
+analyzing two scenarios, one in which the subsidies are simply terminated, and the second in which they are reclaimed 
+from phase-out and then recycled into RE-favoring ventures.  Although both situations would increase the cost of 
+electricity, they would deliver significant GHG emission reductions, and if revenue is recycled, would drive down the 
+costs of RE (Sampedro et al., 2018). Both scenarios would disincentivize the use of non-renewables, and in the recy-
+cling scenario, significantly advance RE development and use.  
+Source 4 concentrates on the implementation of aforementioned RE subsidies and examines their potential 
+outcomes. Using Germany as a case study, the author acknowledges how the country’s RE repertoire is considerably 
+advanced,  with a “41.8%” share of renewables in 2020 (Galvin, 2022). Focusing primarily on photovoltaic panels for 
+residential energy production, Galvin stresses the potential of PV production,  approximately “148 TWh/y”, of which 
+approximately 133 TWh/y is being left unexploited (Galvin, 2022). The purpose of the study is to determine the 
+optimal size of residential PV systems and identify specific technologies and policies that may increase their produc-
+tion and economic viability. For example, heat pumps and battery storage systems are suggested as accessories to PV 
+panels that would maximize energy conservation and consumption, further incentivizing individuals to invest in PV 
+(Galvin, 2022). Although PV installations are profitable long-term, the author identifies heavy upfront costs as pre-
+venting their use (Gavlin, 2022). The primary policy discussed is a feed-in tariff, used to reward PV owners with 
+incentives for any PV-produced electricity that their installations feed into the grid. 
+Additionally, the author explains that the gradual abatement of the feed-in tariff over the years has resulted 
+in German households receiving less money for their electricity production feed-in than before. However, it is also 
+argued that reinforcing a greater feed-in tariff would disadvantage the grid, straining transmission with excess elec-
+tricity (Galvin, 2022). Instead, the author calls for legislation that incentivizes the installation of smaller PV systems 
+as well as the aforementioned efficiency-enhancing tools. The authors offer such legislation to allow more households 
+to profit from the production and consumption of self-produced PV energy, rather than a select few that feed excess 
+into the grid (Galvin, 2022).   
+ 
+Discussion 
+ 
+The primary research portion of this paper demonstrates how carbon pricing is necessary to accelerate the RET. Not 
+only will pricing disincentivize the use of fossil fuel and incentivize the use of RE, but the resulting RE dependency 
+will also drive technological development, thus furthering RE accessibility and economic competitiveness. Secondary 
+research credits ETS policy for the flexibility it encourages regarding interactions between participating entities and 
+the greater implementation feasibility. However, further study on the ETS enacted in the EU demonstrates that it may 
+not be as effective in reducing emissions while simultaneously protecting the business of smaller entities, although, 
+requiring less initial investment and groundwork than other emissions-reducing efforts.  
+        The flaws of EU-ETS implementation revealed in Source I include, over budgeting (Phase I), lack of measure-
+ment and verification of acquired carbon credits (Phase II), and need for credit acquisition regulations (Phase II & III). 
+As a result of the flaws, it is difficult to determine whether Phase I truly limited carbon consumption from exceeding 
+consumption of the prior year. Furthermore, with the introduction of CDM and JI in Phase II, there lacked means of 
+reduction measurement or verification and as a result, it is uncertain whether the tangible emissions reductions are 
+truly proportionate with the carbon credits that they attained. If in fact, carbon credits were disproportionately awarded, 
+in which credits exceeded the tangible reductions, then the reductions derived from the EU-ETS are less than reported. 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+7
+This flaw, in particular, limits researchers in determining whether well-implemented ETS is an effective and feasible 
+GHG reduction strategy.  
+Lack of credit acquisition regulation, specifying the timeframe and quantity in which credits can be acquired, 
+resulted in budget overload. Participants “stockpiled” their credits, resulting in an abundance of credits in the market 
+budget. Thus, the carbon budget of EU-ETS accumulated an “oversupply of around 2 billion emission allowances ', 
+drastically decreasing the cost of emissions to a low of “€4/tCO2e”(Jones, 2013). Businesses held little incentive to 
+pursue emission reductions as the cost of emitting plunged, allowing them to operate as usual (Jones, 2013). By re-
+flecting upon the flaws and consequences of EU-ETS, researchers can develop an optimal structure for future imple-
+mentation. For example, the initial oversupply of allowances demonstrated in Phase I suggests greater measures be 
+taken to validate grandfather budgeting. Perhaps businesses could be required for more thorough and long-term carbon 
+reports. Additionally, the need for credit measurement and validation in Phase II can be combated with requirements 
+of detailed, CDM and JI disclosing, accompanied by annual updates in order to proportionately award allowances. 
+Finally, by observing the lack of regulation of credit attainment and the stockpile it generated, a credit phasing struc-
+ture should be implemented to disperse credit attainment throughout a longer period.  Legislators must reflect and 
+adjust according to the outcome of the EU-ETS in order to reimplement more effective and feasible policies.  
+Although the EU experienced significant emissions reductions, approximately “15% against the 1990 base-
+line”, during the implementation of EU-ETS, the author acknowledges a portion of reductions stemmed from the 
+concurrent recession, making it hard to quantify reductions exclusively produced by ETS, and thus discern the policy’s 
+reduction potential. The recession is an additional obstacle limiting the examination and extrapolation of the effec-
+tiveness of EU-ETS as its performance would not align with that of the standard economic state.  
+Sources 2 and 5 commend carbon taxation as an effective reducing measure. Authors Johsson and others, emphasize 
+how thousands of economists have identified it as “the most cost-effective mechanism to decrease emission” (2020). 
+Author and policy expert, Ian Parry, argues that a “$35 per ton carbon tax” would allow several developing economies 
+to fulfill their Paris Agreement goals (2019). However, future implementation of carbon tax must be executed with 
+consideration to the flaws and accomplishments of those previous.  
+        As discussed in Source 2,  exemptions are identified as the most significant shortcoming of the Swedish carbon 
+tax. Only the largest carbon consumers can obtain relief from the expense by exceeding the tax cap, and thus, have no 
+further disincentive to emit. Furthermore, market distortion, explained in  Source 1, gives ETS participants, typically 
+industrial, carbon-intensive entities,  little incentive to pursue fossil fuel cuts (Jones, 2013). As a result, the lowest 
+emitters are burdened while large emitters have significant consumption freedoms after surpassing the tax cap or are 
+burdened substantially less under the EU-ETS. Due to its flawed implementation, the Swedish carbon tax does not 
+reach its full reduction potential. The authors direct focus on the newly implemented Canadian Carbon tax and the 
+accompanying carbon dividend structure. The Canadian policy is enforced uniformly, consisting of fewer exemptions. 
+As previously mentioned, the setback of taxing carbon-intensive industries is the costly economic effects that conspire. 
+To offset the extra expense and increase public acceptance of the tax,  the country established a carbon dividend, in 
+which returns tax revenue through credits (Johsson et al., 2020). Future carbon tax implementation must be formulated 
+to avoid the consequences of exemptions while promoting welfare.  
+As explained in previous sections, much of RE production goes unexploited, further decelerating the RE 
+transition (Xiangchengzhen, 2020). For example, Source 4 emphasizes how residential photovoltaics, accounting for 
+only “31%” of German PV, has an approximate potential of “148 TWh/y”. If this estimation is correct, solely advanc-
+ing residential PV, in Germany, could nearly deliver PV production rates needed, of “150 TWh”, considering the 
+country’s energy transition goals. However, producing and consuming PV at its estimated potential is inhibited by 
+gaps in energy storage and efficiency-enhancing technologies (Galvin, 2022). The author emphasizes the need for 
+such technologies while arguing that the current feed-in-tariff system is not the most optimal incentive and that tools. 
+Given such circumstances, it can be proposed that subsidizing PV along with said technology would be the optimal 
+initiative to resolve the technological limitations of PV systems and steer away from the tariff. To increase the effec-
+tiveness and feasibility of the subsidies, policymakers should utilize revenue-raising methods discussed in Sources 1, 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+8
+2, 3, and 5. For example, the phase-out and recycle situation proposed in Source 3 presents a rare opportunity to 
+reallocate funding toward sustainable energy. Reclaiming and redirecting fossil fuel subsidy investment presents a 
+feasible alternative to the implementation of additional subsidies which are economically burdening and require rev-
+enue attainment elsewhere. The carbon pricing discussed in Sources 1, 2, and 5 can be deployed as mobilizing revenue, 
+thus garnering political feasibility, all while enhancing the efficiency of RE production and consumption. 
+This paper identifies investing in RE through the mobilization of revenue stemming from carbon pricing, 
+such as taxation and emissions trading schemes as well as the dissolution of fossil fuel subsidies, as the most efficient 
+and feasible next step in strengthening U.S. energy policy. However, the lessons learned from the EU-ETS, Swedish 
+tax, German PV feed-in-tariffs, Canadian carbon tax, and the Canadian tax dividend should be considered to ensure 
+the success of tomorrow's energy policies.  
+ 
+References 
+ 
+Arndt, C., Arent, D., Hartley, F., Merven, B., & Mondal, A. H. (2019). Faster than you think: Renewable energy and 
+developing countries. Annual Review of Resource Economics, 11(1), 149-168. 
+https://doi.org/10.1146/annurev-resource-100518-093759 
+ 
+Birol, F., Dr. (2021). Net zero by 2050 plan for energy sector is coming. IEA. https://www.iea.org/commentaries/net-
+zero-by-2050-plan-for-energy-sector-is-coming 
+ 
+Blakers, A., Blakers, A., Caballero-anthony, M., Hsu, G. K.-J., King, A., Koplow, D., MØller, A. P., Mousseau, T. 
+A., Ramana, M. V., Richardson, L., Robertson, K. A., Ruff, T. A., Stuart, C., Suzuki, T., & Trajano, J. C. I. 
+(2017). Sustainable energy options. In P. Van ness & M. Gurtov (Authors), Learning from fukushima: 
+Nuclear power in east asia (pp. 319-348). ANU Press 
+ 
+Chen, L., Msigwa, G., Yang, M., Osman, A. I., Fawzy, S., Rooney, D. W., & Yap, P.-S. (2022). Strategies to achieve 
+a carbon neutral society: A review. Environmental Chemistry Letters, 20(4), 2277-2310. 
+https://doi.org/10.1007/s10311-022-01435-8 
+ 
+Cohen, S. (2015). What Is Stopping the Renewable Energy Transformation and What Can the US Government Do? 
+Social Research, 82(3), 689-710. 
+ 
+Committee on Oversight and Reform. (2022, October 28). Committee Analysis of Fossil Fuel Industry's Lobbying 
+Reveals Public Praise for Climate Policies Is Not Backed by Meaningful Action. House Commitee on 
+Oversight and Reform. Retrieved October 12, 2022, from https://oversight.house.gov/news/press-
+releases/committee-analysis-of-fossil-fuel-industry-s-lobbying-reveals-public-praise-for 
+Environmental Defense Fund, CDC Climat Research, Caisse des Dépôts, & IETA. (2015). The World's Carbon 
+Markets: A Case Study Guide to Emissions Trading. International Emissions Trading System. 
+https://www.ieta.org/resources/Resources/Case_Studies_Worlds_Carbon_Markets/euets_case_study_may2
+015.pdf 
+ 
+Frankfurt School of Finance & Management. (2018). GLOBAL TRENDS IN RENEWABLE ENERGY 
+INVESTMENT 2018. UNEP. http://www.iberglobal.com/files/2018/renewable_trends.pdf 
+ 
+Flues, F. and K. van Dender (2020), "Carbon pricing design: Effectiveness, efficiency and feasibility: An investment 
+perspective", OECD Taxation Working Papers, No. 48, OECD Publishing, Paris, 
+https://doi.org/10.1787/91ad6a1e-en. 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+9
+ 
+Future Earth. (2001). Global Carbon Budget. Global Carbon Project. 
+https://www.globalcarbonproject.org/carbonneutral/index.htm 
+ 
+Galvin, R. (2022). Why german households won't cover their roofs in photovoltaic panels: And whether policy 
+interventions, rebound effects and heat pumps might change their minds. Renewable Energy Focus, 42, 
+236-252. https://doi.org/10.1016/j.ref.2022.07.002 
+ 
+Gerdes, J. (2018, April 10). Enlisting Abandoned Oil and Gas Wells as 'Electron Reserves'. Green Tech Media. 
+https://www.greentechmedia.com/articles/read/enlisting-abandoned-oil-and-gas-wells-as-electron-reserves 
+ 
+Gillingham, K., & Stock, J. (2018). The Cost of Reducing Greenhouse Gas Emissions. The Journal of Economic 
+Perspectives, 32(4), 53-72. 
+ 
+Hall, S., Foxon, T. J., & Bolton, R. (2015). Investing in low-carbon transitions: Energy finance as an adaptive 
+market. Climate Policy, 17(3), 280-298. https://doi.org/10.1080/14693062.2015.1094731 
+ 
+International Renewable Energy Agency. (2022). How to Transform the Energy System and Reduce Carbon 
+Emissions. IRENA. https://www.irena.org/Digital-content/Digital-Story/2019/Apr/How-To-Transform-
+Energy-System-And-Reduce-Carbon-
+Emissions#:~:text=Renewable%20energy%20and%20electrification%20alone,in%20energy%2Drelated%2
+0carbon%20emissions 
+ 
+Jones, C. W. (2013). A report on the european union emissions trading system (EU-ETS). In . Institute for Global 
+Environmental Strategies. 
+ 
+Jonsson, S., Ydstedt, A., & Asen, E. (2020). Looking Back on 30 Years of Carbon Taxes in Sweden. FISCAL FACT, 
+(727), 1-11. 
+ 
+Kuo, G. (2019, May). When Fossil Fuels Run Out, What Then? https://mahb.stanford.edu/library-item/fossil-fuels-
+run/ 
+ 
+Office of Energy Efficiency & Renewable Energy. (2021). Advantages and Challenges of Wind Energy. 
+https://www.energy.gov/eere/wind/advantages-and-challenges-wind-energy 
+ 
+Parry, I. (2019, December). Putting A Price on Pollution. Internation Monetary Fund. Retrieved May 3, 2023, from 
+https://www.imf.org/en/Publications/fandd/issues/2019/12/the-case-for-carbon-taxation-and-putting-a-
+price-on-pollution-parry 
+ 
+Parry, I., Black, S., & Zhunussova, K. (2022). Carbon Taxes or Emissions Trading Systems?: Instrument Choice and 
+Design. International Monetary Fund. https://www.imf.org/en/Publications/staff-climate-
+notes/Issues/2022/07/14/Carbon-Taxes-or-Emissions-Trading-Systems-Instrument-Choice-and-Design-
+519101 
+ 
+Pezzey, J. C. V. (2014). The influence of lobbying on climate policies; Or, why the world might fail. Environment 
+and Development Economics, 19(3), 329-332. 
+ 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+10
+Qadir, S. A., Al-motairi, H., Tahir, F., & Al-fagih, L. (2021). Incentives and strategies for financing the renewable 
+energy transition: A review. Energy Reports, 7, 3590-3606. https://doi.org/10.1016/j.egyr.2021.06.041 
+ 
+Quidnet Energy. (2022). Quidnet Energy. Quidnet Energy. 
+https://www.quidnetenergy.com/solution/#technologySection 
+ 
+Sampedro, J., Arto, I., & González-eguino, M. (2017). Implications of switching fossil fuel subsidies to solar: A case 
+study for the European union. Sustainability, 10(2), 50. https://doi.org/10.3390/su10010050 
+ 
+Sarbu, I., & Sebarchievici, C. (2018). A comprehensive review of thermal energy storage. Sustainability, 10(1), 191. 
+https://doi.org/10.3390/su10010191 
+ 
+Southwest Power Pool. (2023, January). Generation Mix. Southwest Power Pool. http://spp.org 
+ 
+Thoubboron, K. (2022, November 2). What are the pros and cons of renewable energy? 
+https://news.energysage.com/advantages-and-disadvantages-of-renewable-energy/ 
+ 
+Tongia, R. (2021, October 25). Net zero carbon pledges have good intentions. But they are not enough. 
+BROOKINGS. https://www.brookings.edu/blog/planetpolicy/2021/10/25/net-zero-carbon-pledges-have-
+good-intentions-but-they-are-not-enough/ 
+ 
+United Nations. (2021). About Carbon Pricing. United Nations Climate Change. https://unfccc.int/about-us/regional-
+collaboration-centres/the-ciaca/about-carbon-pricing#What-is-Carbon-Pricing?- 
+ 
+United Nations Framework Convention on Climate Change. (2015, December 12). Paris Agreement. United Nations 
+Climate Change. https://unfccc.int/sites/default/files/english_paris_agreement.pdf 
+ 
+United States Environmental Protection Agency. (2022, February). Global Greenhouse Gas Emissions Data. 
+https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data 
+ 
+United States Environmental Protection Agency. (2022, April 14). Inventory of U.S. Greenhouse Gas Emissions and 
+Sinks. EPA. https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks 
+ 
+U.S. Energy Information Administration. (2021). How much carbon dioxide is produced per kilowatthour of U.S. 
+electricity generation? EIA. https://www.eia.gov/tools/faqs/faq.php?id=74&t=11 
+ 
+Xiangchengzhen, M., & Yilmaz, S. (2020). Renewable energy cooperation in northeast asia: Incentives, mechanisms 
+and challenges. Energy Strategy Reviews, 29, 100468. https://doi.org/10.1016/j.esr.2020.100468 
+ 
+ 
+Volume 12 Issue 3 (2023)
+ISSN: 2167-1907
+www.JSR.org/hs
+11

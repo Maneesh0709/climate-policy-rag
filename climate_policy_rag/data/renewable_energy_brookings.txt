@@ -1,0 +1,130 @@
+Most experts believe that it will be expensive and challenging to shift from today’s
+energy system, which is largely based on fossil fuels with their associated greenhouse
+gas emissions, to a new zero-carbon energy system. The size of this challenge is why
+changes in government policy have been slow to develop, while greenhouse gas
+emissions continue apace.
+But a vocal and growing number of analysts believe that decarbonizing the energy
+system will be surprisingly easy and free. Many believers in cheap decarbonization
+focus on the promise of renewable energy, despite the fact that there are many ways
+to cut emissions. We have the technology now to move to a carbon-free economy, so
+they say, if only vested political interests from fossil fuel companies would get out of
+the way.
+In 
+ released today in the Proceedings of the National
+Academy of Sciences, a number of scientists—including David Victor, the co-director
+of the Cross-Brookings Initiative on Energy and Climate—aim to put this idea to rest.
+The article is a rebuttal to an 
+, written by Mark Jacobson of
+Stanford University and several co-authors, which claims that all U.S. energy end uses
+(including electricity, transportation, heating/cooling, and industry) can be supplied
+using only wind, solar, and water power by 2050-2055 at lower cost than using fossil
+fuels. Jacobson et al specifically exclude other zero-carbon sources of energy,
+a pathbreaking new article
+attention-grabbing paper
+COMMENTARY
+The fantasy of quick and easy renewable energy
+Samantha Gross
+June 19, 2017
+7/28/25, 2:53 PM
+The fantasy of quick and easy renewable energy | Brookings
+https://www.brookings.edu/articles/the-fantasy-of-quick-and-easy-renewable-energy/
+1/4
+including nuclear, bioenergy, and combustion of fossil or biofuels with carbon capture
+and storage (CCS).
+The notion that a zero-carbon future is close at hand and inexpensive is certainly
+appealing. Climate change is one of the great challenges of our time, with its origins at
+the very heart of the modern economy and its worst effects global, uncertain, and
+delayed. But as David Victor and the other authors demonstrate, moving to a zero-
+carbon system so quickly isn’t easy. The point of the rebuttal paper is not to say that a
+low-carbon future is an impossible or pointless goal. Rather, the authors stress that
+overly optimistic analyses and assumptions can get in the way of true progress toward
+decarbonizing the energy system and can decrease the world’s motivation to develop
+new and innovative technologies.
+About those assumptions…
+Meeting all U.S. energy needs using only wind, solar, and water energy requires some
+heroic assumptions, in the electricity sector and in other energy-consuming
+applications. These leaps of faith underlie the analysis of Jacobson et al and bring all
+of their paper’s conclusions into question. The most important and challenging
+assumptions lie in balancing the electric grid and in establishing a hydrogen economy.
+Electricity is pivotal. In the electricity grid, supply and demand must be in balance at
+all times. Given the intermittent and non-dispatchable nature of wind and solar power,
+aligning supply and demand in the system relying only on wind, solar, and water power
+is a huge challenge. But this is a key place where the Jacobson et al analysis drifts into
+fantasy. In their analysis, Jacobson et al use three main tools to bring the grid into
+balance—very large amounts of energy storage, a nationally integrated electric grid,
+and vast amounts of load shifting to times when more power is available.
+Inexpensive, efficient storage of non-fossil energy is the holy grail of energy research,
+and would truly be a game-changer for effectively integrating intermittent renewable
+sources into the grid. However, no storage system is currently available at nearly the
+scale that Jacobson et al envisages—with capacity more than twice the entire
+capacity of all power plants in the United States today.  Their analysis assumes growth
+in hydroelectric pumped storage, vast amounts of underground thermal storage, and
+storage in phase change materials at concentrated solar plants. Jacobson et al
+7/28/25, 2:53 PM
+The fantasy of quick and easy renewable energy | Brookings
+https://www.brookings.edu/articles/the-fantasy-of-quick-and-easy-renewable-energy/
+2/4
+assume a massive change in how existing hydroelectric dam infrastructure can be
+ramped up and down to store energy and produce electricity on demand, even though
+physical and environmental limits will make this all but impossible. Underground
+thermal storage is not yet demonstrated at scale, but the analysis assumes that
+underground thermal storage will be deployed in nearly every home, business, office
+building, hospital, school, and factory in the United States by 2050. Phase change
+materials for energy storage are still at the research and demonstration phase, but
+play an important role in the analysis.
+Assumptions about shaping electricity demand to meet variable supply are also
+challenging. Jacobsen et al assume nearly 2,000 gigawatts of load shifting, but do not
+calculate the costs related to shifting demand over time. In this world of time-flexible
+demand, excess production capacity would be needed in industries that operate only
+when power is available, compared to the capacity needed if they operated
+consistently. This would certainly raise capital and production costs, but such costs
+are not considered in the analysis.
+For the parts of the energy system that are difficult to electrify, Jacobson et al assume
+a shift to hydrogen, with a massive scale-up of hydrogen production and use.
+Hydrogen is an energy carrier rather than an energy source, more like electricity than
+oil. Thus, hydrogen must be generated in this system using wind, solar, and water
+power, at a peak rate that consumes nearly 2,000 gigawatts of electricity, twice the
+current U.S. electricity generating capacity. Jacobson et al assume that hydrogen
+powers half of the transportation sector and 11 percent of energy intensive industry.
+Additionally, the cost and feasibility of transitioning industries to hydrogen are not
+accounted for. Certain applications that require high heat or high energy density, such
+as cement, steel, and aviation, are likely to be challenging to adapt to hydrogen.
+[P]retending that the solutions are cheap and easy is ultimately not helpful
+for combating the challenge of climate change.
+All of these are practical criticisms of a near-term shift to an energy system entirely
+reliant on wind, solar, and water. But the deeper level of criticism is about the focus on
+establishing an energy system that excludes many other sources of low- or zero-
+carbon energy. Nuclear energy, bioenergy, and fossil fuel sources (particularly with
+CCS) may have roles to play in future energy systems, and excluding them a priori is
+7/28/25, 2:53 PM
+The fantasy of quick and easy renewable energy | Brookings
+https://www.brookings.edu/articles/the-fantasy-of-quick-and-easy-renewable-energy/
+3/4
+likely to increase the cost of achieving climate change goals. Jacobson et al exclude
+these sources based on a number of unconventional assumptions about their costs
+and emissions that differ from the scientific consensus, including the work of the
+Intergovernmental Panel on Climate Change.  For example, 
+attributes to nuclear power up to 19 years of fossil-based emissions during the
+construction phase of a reactor and emissions from nuclear weapons use assumed to
+periodically occur on a 30-year cycle.
+Thought experiments about future zero-carbon energy systems are important, to
+consider how an energy transition can play out and where the biggest challenges in
+such a transition lie. But one can’t let dogma get in the way—the world’s reaction to
+climate change must be politically and economically durable enough to last for
+generations. Unnecessarily limiting technology options or pretending that the solutions
+are cheap and easy is ultimately not helpful for combating the challenge of climate
+change.
+AUTHOR
+Samantha Gross Director - Energy Security and Climate Initiative,
+Fellow - Foreign Policy, Energy Security and Climate Initiative
+The Brookings Institution is committed to quality, independence, and impact.
+We are supported by a diverse array of funders (/about-us/annual-report/) . In line with our
+values and policies (/about-us/research-independence-and-integrity-policies/) , each
+Brookings publication represents the sole views of its author(s).
+Jacobson’s earlier work 
+@samanthaenergy
+Copyright 2025 The Brookings Institution
+7/28/25, 2:53 PM
+The fantasy of quick and easy renewable energy | Brookings
+https://www.brookings.edu/articles/the-fantasy-of-quick-and-easy-renewable-energy/
+4/4
